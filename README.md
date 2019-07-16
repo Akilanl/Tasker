@@ -6,4 +6,4 @@
 5. Add authentication and authorization
 6. Create REST API's for create - update - delete
 7. Create Report generation using JASPER 
-8. Unit testing with JUnit
+8. Unit testing with JUnit.
